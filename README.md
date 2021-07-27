@@ -8,6 +8,8 @@ This example is to show different parts of the Git repository and varioous comma
 
 ## Purpose
 
+As stated above, the main puspose is to provide simple examples for Git training
+
 ## Deployment
 
-Sample website with plenty of files for demos
+This is a sample website with plenty of files for demos
